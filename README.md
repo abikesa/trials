@@ -7,7 +7,7 @@
 
 ```
 
-1. [Idiom](https://clinicaltrials.gov)
+1. [Idiom](https://clinicaltrials.gov)/Concept
 2. Adjective/Rx
 3. Language/Trial
 4. Subject/Disease
