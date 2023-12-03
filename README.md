@@ -16,7 +16,7 @@
    - Unlike fractals, purines, alphabetes, the harmonic series are "convergent"
       - Symmetry is absent
    - Well-tempered keyboard tuning is an artifice
-      - Brings out dance from shackles
+      - But it approximates the harmonic series & thus has construct validity in "earth"
         
 3. Adjective/Rx
 4. Language/Trial
