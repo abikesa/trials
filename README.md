@@ -8,21 +8,30 @@
 ```
 
 1. [Idiom](https://clinicaltrials.gov)/Concept
-2. Adjective/Rx
-3. Language/Trial
-4. Subject/Disease
-5. `Verb`/Followup
-6. Object/Efficacy
+   - `Construct validity`. `Harmonic series`, much like metaphysics, is a rich conceptual foundation because “stacking” is intrinsic to it; chord stacking
+   - Four-base purine code of DNA & RNA is similarly suited for genes
+      - Gene sequences
+   - Alphabet too allows stacking into words
+      - Word phrases
+   - Unlike fractals, purines, alphabetes, the harmonic series are "convergent"
+      - Symmetry is absent
+   - Well-tempered keyboard tuning is an artifice
+      - Brings out dance from shackles
+        
+3. Adjective/Rx
+4. Language/Trial
+5. Subject/Disease
+6. `Verb`/Followup
+   - `Activation` implied by verb `to do`
+      - Modification of affect by tone-painting
+8. Object/Efficacy
 
-- `Harmonic series`, much like metaphysics, is a rich conceptual foundation because “stacking” is intrinsic to it
-  - Chord stack
-- Four-base purine code of DNA & RNA is similarly suited for genes
-  - Gene sequences
-- Alphabet too allows stacking into words
-  - Word phrases
-- Unlike fractals, purines, alphabetes, the harmonic series are "convergent"
-  - Symmetry is absent
-- Well-tempered keyboard tuning is an artifice
-  - Brings out dance from shackles
-- `Activation` implied by verb `to do`
-  - Modification of affect by tone-painting
+
+```
+         1. Construct
+                     \
+      3. Language -> 2. Modifier -> 5. Verb -> 6. Object
+                     /
+                      4. Subject
+
+```
